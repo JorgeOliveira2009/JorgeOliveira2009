@@ -1,4 +1,4 @@
-# ✌️ Olá! 😎
+# ✌️ EAE CPX! 😎
 
 Sou apaixonado por tecnologia e programação desde **2022**, quando iniciei minha jornada com o curso técnico em Desenvolvimento de sistemas e trabalhando com informática sem curso formal,
 apenas **APRENDENDO COM A VIDA KKK**.  
