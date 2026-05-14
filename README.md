@@ -5,6 +5,7 @@ apenas **APRENDENDO COM A VIDA KKK**.
 Desde então, sigo estudando e criando projetos.
 
 Atualmente:
+- 💻 Buscando curso de informática...
 - 📚 Cursando **Técnico em Desenvolvimento de Sistemas (Senac)**
 - 💼 **Buscando oportunidades como Dev Júnior**
 
