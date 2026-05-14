@@ -15,7 +15,8 @@ Atualmente:
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight" />
+  <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JorgeOliveira2009
+&layout=compact&theme=tokyonight" />
 </p>
 
 ---
