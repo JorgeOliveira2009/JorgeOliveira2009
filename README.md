@@ -1,6 +1,7 @@
 # ✌️ Olá! 😎
 
-Sou apaixonado por tecnologia e programação desde **2025**, quando iniciei minha jornada com o curso técnico em Desenvolvimento de sistemas.  
+Sou apaixonado por tecnologia e programação desde **2022**, quando iniciei minha jornada com o curso técnico em Desenvolvimento de sistemas e trabalhando com informática sem curso formal,
+apenas **APRENDENDO COM A VIDA KKK**.  
 Desde então, sigo estudando e criando projetos.
 
 Atualmente:
@@ -35,13 +36,6 @@ Atualmente:
 | Curso                                   | Período   |
 |----------------------------------------|-----------|
 | Técnico em Desenvolvimento de Sistemas | 2025–2026 |
-
----
-
-## 📘 Cursos e Estudos Complementares
-
-- Java & Java Web | Alura & Oracle Next Education
-- HTML, CSS e JavaScript
 
 ---
 
