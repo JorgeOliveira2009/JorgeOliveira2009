@@ -1,4 +1,4 @@
-# ✌️ EAE CPX! 😎
+# Olá!
 
 Sou apaixonado por tecnologia e programação desde **2022**. quando iniciei minha jornada nesse mundo trabalhando com informática sem curso formal desde **2022**,
 apenas **APRENDENDO COM A VIDA KKK** e com o curso técnico em Desenvolvimento de sistemas em **2025** .  
